@@ -1,6 +1,8 @@
 # Miguel Menjivar
 # Program #1
 # CS 264
+# 
+# Purpose: Prints out strings 
 
 
 .data
