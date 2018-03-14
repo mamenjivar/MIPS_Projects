@@ -1,6 +1,9 @@
 # Miguel Menjivar
 # Program #2
 # CS 264
+#
+# Purpose: Prompts user to enter 10 values and then
+#      and then prints out the average of those 10 values
 
 .data
 integer1: .asciiz "Please enter an integer: "
