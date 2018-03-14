@@ -1,4 +1,4 @@
-# Miguel Menjivar
+# Author: Miguel Menjivar
 # Program #2
 # CS 264
 #
