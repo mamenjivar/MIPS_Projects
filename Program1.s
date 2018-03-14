@@ -1,5 +1,7 @@
+# Miguel Menjivar
 # Program #1
 # CS 264
+
 
 .data
 helloWorld: .asciiz  "Hello World"
