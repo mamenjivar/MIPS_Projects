@@ -3,7 +3,9 @@
 #
 # Assignment: Program 4
 # Date: 2/23/18
-# Purpose: A program that utilizes 2D arrays
+# Purpose: A program that utilizes 2D arrays. It will calculate the
+#     sum of all the values inside the array.. It will print out the
+#     array. It will replace a value inside the array
 
 .data
 #array: .space 60 # 5x3 array
